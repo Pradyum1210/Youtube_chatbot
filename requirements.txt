@@ -5,3 +5,4 @@ langchain_text_splitters==1.1.2
 python-dotenv==1.2.2
 streamlit==1.52.2
 youtube_transcript_api==1.2.4
+faiss-cpu
